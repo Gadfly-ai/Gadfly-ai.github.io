@@ -1,4 +1,4 @@
-# literate computing
+# ANNOUNCEMENT 🔊 gadfly-ai literate computing writer's workshop
 
 <section>
 <figure>
