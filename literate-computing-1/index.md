@@ -1,4 +1,4 @@
-# ANNOUNCEMENT 🔊 gadfly-ai literate computing writers workshop
+# ANNOUNCEMENT 🔊 gadfly-ai literate computing writers workshop cohort 2024
 
 <section>
 <figure>
